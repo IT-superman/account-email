@@ -1,4 +1,4 @@
-package com.kongdq.mvnbook.account.email;
+package com.kongdq.mvnbook.account.email.service;
 
 import com.kongdq.mvnbook.account.email.exception.AccountEmailException;
 
